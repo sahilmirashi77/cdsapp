@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:background="@drawable/backy"
+    android:orientation="vertical"
+    tools:context=".armykiinformation.Armyinformation">
+
+    <Button
+        android:id="@+id/armyinfoone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backy"
+        android:text=" ranks in army "
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/armyinfotwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backy"
+        android:text=" regiments in army"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/armyinfothree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backy"
+        android:text="academies  of army"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/armyinfofour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backy"
+        android:text="awards of army"
+        android:textSize="18sp" />
+</LinearLayout>

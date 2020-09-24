@@ -1,0 +1,929 @@
+<resources>
+    <string name="app_name">CDSmaster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="armyranks">
+
+    
+
+ </string>
+
+    <string name="introdayone">
+
+        SSB means Service Selection Board.  It is set by the ministry of Defense for the recruitment of officers to the Tri Forces such as Army, Navy and Air force.  The Selection Board consists of senior officers from defense forces usually in the rank of major, colonel, Lt Colonel. The board consists of psychologists, GTO to check the candidate’s ability for defense forces.
+
+After getting shortlisted in written examination candidates are called for SSB interview which is a 5 days process. \n
+
+        \n
+        \n
+        \n
+        \n
+        Before starting the SSB candidates need to report one day before which includes document checking and form filling. They are supposed to report at the place mentioned in their call letter mostly they are asked to report at MCQ (Moment Control Office). Procedure of DAY 1 is given below:
+
+   Also called as Screening tests, Day 1 comprises of the first bunch of tests. Intelligence test lies first in the list. This is a written test which involves Multiple Choice Questions (MCQs). It is both verbal and non verbal and the time allotted to finish it is 30 minutes. 50 verbal and 50 non verbal questions with a time limit of 30 minutes each is the complete structure of Officer Intelligence Test.
+
+Next follows up the all time famous and multiple terms heard PP and DT. An acronym for Picture Perception and Description Test this is perhaps the most googled test of SSB. As hinted from the name you have to see a picture, perceive it, and then describe it. The catch is you will be shown a picture which will be hazy and blur for 30 seconds. You have to fill in a box foremost with such information as age, sex, number and mood of characters. Follow it by penning down a relevant story within 4 minutes. Jump to the last step by clearly narrating the story. Once all the group members are done with their narration they decide and reach up collectively to a common story. The results reveal a list of screened in and screened out candidates. If you fall in the former category then you get accommodation and prepare for day 2 while falling in the latter category expels you from further procedure. The objective of PPDT is to probe into your thoughts, perception, belief, emotions, logic and reasoning. Make sure your story and narration leaves a lasting impression
+        \n</string>
+
+    <string name="pysco">The blood- soul- backbone of SSB is the Psychology test and day 2 has a packed schedule of all sorts of Psychology tests. Central motive herein is to dive into your pschychology and assess your Officer like Qualities (OLQs). It is a conglomeration of TAT, WAT, SRT, and SD.\n\n
+
+Thematic Apperception Test (TAT) resembles PP and DT quite a bit as here too you will be shown picture and furnish a story on its basis. Difference lies in the details such as: unlike PP and DT here you will see 11 pictures for 30 seconds each and you are supposed to write a story in 4 minutes based on the picture. The 12th slide will be blank and you have to frame a story of your own choice.\n\n
+
+Word Association Test (WAT) as the name implies is all about connecting ideas to words. Get used to slides and screen because here too you will be shown 60 words in continuation. Each word will remain for 15 seconds and your task is to write the first sentence that pops up in your mind on seeing that picture. It is an assessment of your responsiveness, thought and ideology.\n\n
+
+Situation Reaction Test (SRT) is a test of your moral stance, officer- like attitude and responsible nature. You will be provided with a booklet of 60 situations coming from daily life and you have to give your responses in relation to it. Time allotted is 30 minute. This is a true judgment of a sincere and dedicated Officer.\n\n
+
+Self Description (SD) is a descriptive written test, quite synonymous to essay writing. Yes really You have to give self description by writing about what your parents, friends and teachers think about you as well as your future goal. This is nothing but a self- analytical procedure.\n
+        \n
+        \n
+            \n</string>
+
+    <string name="interviewngto">
+        SSB Interview DAY 3 and DAY 4\n
+Huh! Done with day 2? Well if Psychology drained you then get a good rest and a cup of coffee because you need to brace yourself for the tedious GTO session scheduled for day 3.\n\n
+
+Group Training Officer (GTO) is a unique mix of physical as well as discussion rounds. The aim is to judge your co-operative skill and group performance. The name itself spells ‘group’, hence the test judges how you behave and co- ordinate with the group. The tests lined up here include:\n\n
+
+GD- Group Discussion (GD) is a discussion session wherein two rounds are held. In each round one topic, generally from current affairs, is given and individuals in the group have to put forward their views. Mind it, this is a group task so be harmonious and amiable to other members.\n\n
+
+GPE- Group Planning exercise, also known as Military Planning exercise is the 2nd round wherein a situation, in particular a problem from real life is explained through a map and the group has to reach a common conclusion. Again, this test is a judgment of how well you co-ordinate with the group members.\n\n
+
+PGT- Progressive Group Test indeed is an exam of your progress. Well this one is a physical round. You are challenged to cross certain obstacle with the help of materials provided such as planks, wood leg etc. along with all the group members. To say simply this is a complete group task.\n\n
+
+HGT- Half Group Task lies on a similar platform as that of PGT. You have to again cross obstacles with the help of materials supplied except that the number of group is reduced to half and your chances get easier and doubled.\n\n
+
+IOT- Individual Obstacle Task is an outdoor task but an individual one not a group task. Candidates have to attempt 10 obstacles and are marked from 1 to 10.\n\n
+
+Command Task- In continuation of the physical tasks comes Command task wherein you are a leader, a commander who has to cross the obstacles through your expert commands. You can choose subordinates for support.\n\n
+
+Snake race/ Group Obstacle Task- Must have heard the name in school… snake race, didn’t you? Time to go back to schooldays because this is a round full of fun! Not individual but all the groups compete against each other. The groups are given a snake like rope through which they have to combat obstacles. It’s a complete group effort.\n\n
+
+FGT- Full Group Task is nothing but a repetition of PGT except that the difficulty level is higher. You have to overcome the obstacles together in prescribed time limit.\n\n
+
+Lecturette round- It is the much awaited session of all SSB. This is an individual task wherein your speech, knowledge, comprehensive skill and confidence is assessed. All individuals are given 4 topics, they have to choose 1 and give a lecture on the same for 3 minutes.\n
+
+Personal Interview- The name itself has send many in horror but if you have confidence and are true to yourself and the panel then you are in a win- win situation. The objective is to have a face- to- face interaction with the candidate. An expert panel of Interviewing Officers (IO) sits and conduct personal interview of each candidate where they ask questions of all sorts: personal life, education, past experience, aim in life and what not. Also it involves rapid fire round wherein multitude of questions are put up in one go. You have to remember the sequence and answer accordingly. Being calm is the golden key here.\n\n
+
+        \n</string>
+
+    <string name="conference">
+
+All is well that ends well! Last day involves just a conference and declaration of final result.\n\n
+
+In the conference all the SSB officers namely President, Deputy President, GTOs, Psychologists and Interviewing Officers sit together and have a general discussion with the candidate pertaining to their stay and experience. It is done in order to decide who is recommended and who is not.\n\n
+
+An hour later the results are announced. If you get to the list then you will have to go for a little medical assessment and that’s it, you nailed it!
+
+No matter how back breaking it may seem, SSB is a once- in- a- lifetime opportunity. It’s thrilling, adventurous and an out- of- the- box experience that will leave its footprint for lifetime so once you get to SSB simply enjoy it
+\n\n
+    </string>
+
+
+    <string name="ssbolq">
+        HERE ARE THE 15 OFFICER LIKE QUALITIES THAT ONE SHOULD POSSESS IN ORDER TO CLEAR THE SSB INTERVIEW\n\n
+
+
+Being an Officer in Armed forces of India requires you to have specific 15 officer like qualities and traits. GTO, Psychologist and IO are all trying to find these qualities in you through your activities and body language in the span of 5 days of SSB interview.\n\
+
+These qualities are not only examined for SSB interview but also must-haves in an Armed forces Officer to lead his/her team successfully. All of these qualities might not be present in one individual, someone excels in one quality while other is best in some other quality.\n
+\n
+        \n\n\n
+
+
+Whoever possesses a maximum of these qualities and traits have higher chances to get selected:\n
+\n\n\n
+
+    </string>
+    <string name="ra">
+Reasoning ability:\n
+
+
+Everything in life has to have logical significance and valid reasoning. This quality is generally checked by IO during Personal Interview and questions are asked based on your PIQ form. Therefore, while filling up this form, one needs to be very careful and only write logical answers.\n\n
+
+
+</string>
+
+    <string name="ei">
+Effective intelligence:\n
+
+
+This is the quality of an individual to tackle critical problems during critical situations. Candidates must be able to use their practical intelligence so as to solve real-life problems they might face during life situations.\n
+
+
+\n\n
+    </string>
+
+    <string name="expression">
+Power of expression:\n
+
+
+Your knowledge and intelligence is of no use if you fail to express it effectively in front of people. Candidates must be able to put across their opinions and views during several tests with much clarity and ease.\n\n\n
+
+
+</string>
+
+    <string name="quality">
+Organising quality:\n
+
+
+This is a trait that makes you utilize scarce resources smartly and systematically. During bad situations in life, you must be able to handle every crisis efficiently and manageably.\n\n\n
+
+
+</string>
+
+    <string name="abilities">
+Social abilities:\n
+
+
+It is the quality of a person that determines how socially adaptable they are with other people. Moreover, it is a quotient of how skilfully you manage your feelings towards them.\n\n\n
+
+
+</string>
+
+    <string name="responsibility">
+Sense of responsibility\n
+
+
+Performing every assigned task with extreme sincerity and determination is what defines your sense of responsibility. Whether you follow the rules and regulations strictly or not also tells a lot about your attitude towards the job.\n\n\n
+
+    </string>
+
+    <string name="intiatingability">
+Initiating abilities:\n
+
+
+This is the quality of an individual to initiate and take decisions for every situation that comes their way. One needs to volunteer and take initiative actions to prove their interest in tasks. Generally, this quality is analysed during Group Discussions.\n\n\n
+
+
+</string>
+
+    <string name="coperative">
+Cooperative nature:\n
+
+
+If you participate in group tasks with utmost harmony, then you are said to have cooperative capabilities. To develop this quality, one needs to be kind, helpful, friendly and have team spirit.\n\n\n
+
+
+</string>
+
+    <string name="confidence">
+Self-confidence:\n
+
+
+If you keep doubting yourself, you are not really capable of handling stressful and unfamiliar situations in life. Self-confidence is the basic foundation of your faith in yourself. This quality is displayed when one has a strong body language, clear voice, and confident expressions.\n\n\n
+
+    </string>
+    <string name="decisionmakingability">
+Decision-making capability:\n
+
+
+Candidates must be able to take practical decisions that are accurate and quick. A confused officer is certainly not desirable to lead the team.\n\n\n
+
+
+</string>
+
+    <string name="influence">
+Power of influence:\n
+
+
+Your ability to influence a group or convince the interviewer showcases your influencing abilities.\n\n\n
+
+
+</string>
+
+    <string name="courage">
+Courage:\n
+
+
+Needless to say, an officer’s worth is expressed by their courage! Your willingness towards taking risk shows your determination towards objectives in life.\n\n\n
+
+
+</string>
+
+    <string name="stamina">
+Stamina:\n
+
+
+Candidates need to have ample amount of stamina to endure continuous mental and physical stress.\n\n\n
+
+
+</string>
+    <string name="liveeliness">
+Liveliness:\n
+
+
+If you are not really cheerful, active and enthusiastic in everything you do in life, you are not lively! Keeping a smiling face, displaying high energy levels and not complaining/nagging are all features of liveliness.\n\n\n
+
+
+</string>
+
+    <string name="determination">
+Determination:\n
+If you put efforts towards something in life, despite all the failures and obstacles, you know you are really determined towards your goal. Every candidate needs to have extreme determination towards their aim in life. This is the main quality checked during SSB interview.
+
+\n\n\n
+    </string>
+    <string name="tips">So, follow these 15 officer like qualities in order to clear the ssb .</string>
+
+
+    <string name="timeup">timeup</string>
+    <string name="title_activity_physcopractices">physcopractices</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="ssbappearence">The looks, appearance and dress of the candidate indicates his personality. So, Be aware of these things.\n\n\n
+Your dress should be neat, clean and ironed.\n
+Your shoes should be clean and polished.\n
+Avoid wearing new dress for the SSB Interview. Your dress should be simple and sober and according to the season of the place\n.
+Don not carry your mobile, wallet, wrist watch, tuck in shirt and make sure your look should be as that of a gentleman.\n
+Do carry pen and blank sheet in your pocket.\n
+If your interviewer is conducted during the GTO Tests then you have to go there in the same PT dress. But make sure, your shoes laces are properly tied, socks are pulled up, shirt tucked in and no button is loose and open.\n
+Your hair should be properly combed.\n
+Use of colognes and perfumes should be avoided.\n
+    </string>
+
+
+    <string name="dosandonts">
+
+
+    ome basics which a candidate must keep in mind while preparing during an interview are as under:
+
+1.Be appropriately turned out for the interview.\n
+2.Look smart, cheerful and enthusiastic.\n
+3.Must remain happy and calm and respond politely to the interviewing officer\'s welcome remark.\n
+4.Be audible but not too loud. Appear keen to speak and respond to questions.\n
+5.Sit straight and comfortably, do not fidget, do not keep moving your hands and legs.\n
+6.Acknowledge questions being asked by gently nodding your head and maintain eye contact throughout.\n
+7.If you have not understood anything, politely ask for a clarification or to repeat the question.\n
+8.Must be clear about facts and figures regarding your bio data, marks obtained, ranking in competitive exams, dates, names of school / institution, teachers, friends etc. Avoid stating "I do not remember" and respond as far as possible.\n
+9.A large number of questions are normally asked at one go in a sequence. Try and remember all these questions and attempt to answer them in the same sequence. If you fail to recollect all questions, finish those you remember and then request to clarify for anything, left out.\n
+10.Prep well in general knowledge for the interview. You are expected to be aware about current events, if asked.\n
+11.Talk about hobbies, participation in games and sports, adventure activities and any other interests. You must have adequate technical knowledge about your hobbies and games you play. You shall get some questions on these.\n
+12.Utilize your time while waiting for interview by reading newspapers and journals available in waiting room.\n
+13.Watch TV News for updating yourself in candidates lines / waiting room.\n
+14.Remain relaxed and at ease throughout during the interview.\n
+15.Listen to complete questions before attempting to reply.\n
+16.Be truthful and honest while replying to questions.\n
+    \n
+    \n
+    \n
+    \n
+
+
+    Dont\'s:
+
+Do not be shabbily dressed.\n
+Don not be under stress during interview.\n
+Do not discuss the questions asked by interviewing officer.\n
+Never lie or put up a false pretense.\n
+If you are well read it is an advantage. If not, do not pretend to have read books/magazines and newspapers which you have only heard of.\n
+Do not reply as has been told to you by the candidates interviewed before you. Their questions may have had a different perspective.\n
+Avoid guess work. Better be polite and say I don not know, sir, I shall find out.\n
+Avoid being rigid, restorative, argumentative, overbearing, complacent and stiff, throughout the interview.\n
+Don not keep mobile, watch etc on person during interview.\n
+</string>
+
+    <string name="html" formatted="false">
+
+
+        <![CDATA[
+
+<h2 style=\'box-sizing: border-box; margin: 20px 0px 10px; padding: 0px 0px 30px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 30px; vertical-align: baseline; text-size-adjust: 100%; color: rgb(0, 0, 0); font-weight: 500; line-height: 1.1; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>1. Introductory Questions</h2>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>These types of questions are generally asked to make you feel at ease with the IO. These questions can be easily answered by all candidates</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>Few examples if such questions may be,</p>
+<ol style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 23px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; list-style: inside decimal; line-height: 26px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%;"><em style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; font-style: italic;">What is the meaning of your name?</em></li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%;"><em style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; font-style: italic;">Tell me something about your city/town.</em></li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%;"><em style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; font-style: italic;">List out 5 things you like the most about your native place.</em></li>
+</ol>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>While answering such questions, do not provide one-line answers but don&rsquo;t be too descriptive as well. Be precise and informative at the same time.</p>
+<ul style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 23px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; list-style: disc; line-height: 26px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%;">Your answer should cover most important things about your native place or things your place is most popular for.</li>
+</ul>
+<h2 style=\'box-sizing: border-box; margin: 20px 0px 10px; padding: 0px 0px 30px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 30px; vertical-align: baseline; text-size-adjust: 100%; color: rgb(0, 0, 0); font-weight: 500; line-height: 1.1; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>2. Rapid Fire Questions and Stress Questions</h2>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>Rapid Fire Questions &amp; Stress Questions are important and play a vital role in deciding your recommendation for SSB.</p>
+<ul style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 23px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; list-style: disc; line-height: 26px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 14px; vertical-align: baseline; text-size-adjust: 100%; font-weight: 700;">Stress Questions&nbsp;</strong>will allow the IO to check the original personality of the candidate, how he/she reacts to them and about his/her temper.</li>
+</ul>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>IO checks whether the candidate has optimistic attitude towards hard or stressful situations, keeps his calm and has good-decision making capability or not.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; font-weight: 700;">Stress Questions</strong> generally comprise of set of questions on the same topic until the candidate has uttered all of his knowledge on the subject.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; font-weight: 700;">For example,</strong></p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'><em style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; font-style: italic;">What is the difference between drum brake and disc brake? Which one is better? Which type of brake is used in cars? Why? Why do some vehicles use disk brake as well as drum brake? And so on&hellip;&hellip;.</em></p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>IO will continue to grill you on the subject to check your temper. Candidates need to keep their calm and answer as much as he/she knows. If you don&rsquo;t know the answer, you can clearly say it to the IO. But avoid faking or lying.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>Sometimes, IO might ask you questions related to completely different academic stream as well, just to see your pulse.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: 0px 0px; font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; font-weight: 700;">Rapid Fire Questions&nbsp;</strong>are nearly set of 10 to 15 questions asked all at the same time by IO. He checks how attentively you&rsquo;ve listened and how truthfully you will answer them.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>Rapid Fire Questions can be about your family, friends, educational background, about yourself, hobbies, interests, etc. All of these questions will be asked based on your PIQ form only.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>And, all of the answers provided in your PIQ form must match with your answers given during PI.</p>
+<h2 style=\'box-sizing: border-box; margin: 20px 0px 10px; padding: 0px 0px 30px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 30px; vertical-align: baseline; text-size-adjust: 100%; color: rgb(0, 0, 0); font-weight: 500; line-height: 1.1; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>3. Current Affairs &amp; GK Questions</h2>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>In this session, IO might ask questions related to national or international issues and ask you to provide a solution. This is to check your knowledge and approach towards life problems.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>IO might also ask questions about history, geography and other GK-related subjects. This is to check your Social awareness and Basic Intelligence.</p>
+<h2 style=\'box-sizing: border-box; margin: 20px 0px 10px; padding: 0px 0px 30px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 30px; vertical-align: baseline; text-size-adjust: 100%; color: rgb(0, 0, 0); font-weight: 500; line-height: 1.1; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>4. Technical Questions</h2>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>If you are from a technical background or engineering field, IO might ask you some technical/practical questions that we may come across during day-to-day life.</p>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>This is to check your practical knowledge about your stream and how you apply it in your daily life.</p>
+<h2 style=\'box-sizing: border-box; margin: 20px 0px 10px; padding: 0px 0px 30px; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 30px; vertical-align: baseline; text-size-adjust: 100%; color: rgb(0, 0, 0); font-weight: 500; line-height: 1.1; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>5. Armed Forces Questions</h2>
+<p style=\'box-sizing: border-box; margin: 0px 0px 10px; padding: 0px 0px 1em; border: 0px; outline: 0px; background: 0px 0px rgb(255, 255, 255); font-size: 16px; vertical-align: baseline; text-size-adjust: 100%; line-height: 28px; color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>It is essential for every candidate to have basic knowledge about the branch they want to join. Get to know about history and current news related to that particular Armed Forces branch.</p>
+
+        ]]>
+
+       \
+
+    </string>
+
+
+    <string name="frequentquestion1">
+
+    <![CDATA[
+<p>Your academic performance starting from your 10th class till graduation.</p>
+<p>&bull; Your academic scores in each class and semesters.</p>
+<p>&bull; State your academic achievements if any.</p>
+<p>&bull; The teachers you liked and why did you like them.</p>
+<p>&bull; The teachers you didn&rsquo;t like and why so.</p>
+<p>&bull; The subjects you liked and why.</p>
+<p>&bull; The subjects you didn&rsquo;t like and why so.</p>
+<p>&bull; The subjects you were weak in and how did you improve on them.</p>
+<p>&bull; Who are your best friends and why.</p>
+<p>&bull; Tell your friend&rsquo;s one good and one bad quality.</p>
+<p>&bull; Tell one quality from each of your friend&rsquo;s that you like and want to learn.</p>
+<p>&bull; The games and sports you participated in.</p>
+<p>&bull; Extra co-curricular activities you took part in.</p>
+<p>&bull; State your achievements in these if any. C</p>
+
+    ]]>
+
+    </string>
+    <string name="faq2">
+    <![CDATA[
+
+    <p>Who all are in your family and their occupation.</p>
+<p>&bull; Do you stay with them or not. If not then how often you visit them and when.</p>
+<p>&bull; What all activities you do together and how do you spend time with them.</p>
+<p>&bull; Who are you closer to your mother or your father.</p>
+<p>&bull; Whom do you approach when you require help or are facing any problem.</p>
+<p>&bull; How do you help your parents at home.</p>
+<p>&bull; If you have any monetary need whom do you approach.</p>
+<p>&bull; How do you spend your money and how much do you save.</p>
+<p>&bull; If you have neighbours what are your relations with them</p>
+
+    ]]>
+</string>
+
+    <string name="faq3">
+
+        <![CDATA[
+
+        <p>What is your routine during weekdays.</p>
+<p>&bull; What is your routine during weekends.</p>
+<p>&bull; How you spend your spare time.</p>
+<p>&bull; What are your hobbies.</p>
+<p>&bull; Questions relating to your hobbies.</p>
+<p>&bull; What are your interests.</p>
+<p>&bull; Questions relating to your interests.</p>
+<p>&bull; What are the activities you take part in your family or society at festivals.</p>
+<p>&bull; Why didn&rsquo;t you consider your hobby as a career path.</p>
+<p>&bull; If you had some more spare time what would you do.</p>
+
+        ]]>
+    </string>
+
+    <string name="faq4">
+
+        <![CDATA[
+        <p>What sport you play and which level did you play at.</p>
+<p>&bull; Your achievements in the sport.</p>
+<p>&bull; Specific rules and regulations of that sport.</p>
+<p>&bull; Any current affairs related to the sport.</p>
+<p>&bull; Captain of the Indian Team for that sport and last tournament played.</p>
+<p>&bull; Famous Indian Personalities of that sport.</p>
+<p>&bull; Why do you like that sport.</p>
+<p>&bull; What did you learn from sports.</p>
+<p>&bull; What extra co-curricular activities you participated in.</p>
+<p>&bull; Why did you choose these activities over the others.</p>
+<p>&bull; What have been your achievements in them.</p>
+<p>&bull; Famous Indian Personalities in them if any.</p>
+<p>&bull; Major news of the past month or two months.</p>
+<p>&bull; India&rsquo;s geo-political situation and relations with different countries.</p>
+<p>&bull; Main headlines of that day&rsquo;s newspaper.</p>
+<p>&bull; International news relating to India.</p>
+<p>&bull; Physical geography.</p>
+<p>&bull; Current Affairs.</p>
+
+
+        ]]>
+    </string>
+
+    <string name="gtomantra">
+
+        <![CDATA[
+
+        <p><strong>The &ldquo;task&rdquo; is NOT important.........but,
+        &ldquo;You&rdquo; and your role during the process of that task is important,
+         and furthermore, &ldquo;You&rdquo; are NOT important..........but, your &ldquo;Group&rdquo;
+          is finally more important!!</strong></p>
+        ]]>
+    </string>
+
+    <string name="gtooverview">
+        GTO task is  one of  crucial testing part of ssb were candidates performing is tested
+
+    </string>
+
+    <string name="gdtopics">
+        <![CDATA[
+
+
+<p>&nbsp;National &amp; International News from the Past Month</p>
+<p>Should AFSPA be repealed</p>
+<p>Is India ready for Electric Vehicles ?</p>
+<p>Doubling the Farmers&rsquo; Income, How ?</p>
+<p>Death Penalty : Inhumane or Should India Continue this harsh British Legacy ?</p>
+<p>Interstate Water Disputes Should India be given UNSC permanent member seat? Impact of fake news in society How can Indo-Pak relations be improved?</p>
+<p>Involving Army in civil tasks &ndash; Right or Wrong?</p>
+<p>How India can become a Superpower in coming decades Where should India invest more</p>
+<p>- i) human capital, ii) human development Can relations between India - Pakistan improve, if Pakistan strengthens its Democracy ?</p>
+<p>Pollution linked deaths in India. What is the way out of this crisis ?</p>
+<p>&nbsp;Do you think the Authorities are well prepared to combat natural disaster ?</p>
+<p>US withdrawal from Afghanistan &ndash; Impact on India</p>
+<p>Do you think our education system needs some serious reforms to ancient education &amp; promote sports in schools and colleges ?</p>
+<p>Water Crisis : Abundance and Scarcity</p>
+<p>. How to create a balance ? Why the government is not successful in increasing the income of Farmers as promised ?</p>
+<p>How can India be better prepared to deal with sudden outbreak of various diseases and viruses in India ?</p>
+<p>How we as an individual can contribute to bring down air and water pollution in our country ?</p>
+<p>90% of Civilians are Casualties by Small Arms - How to curb the proliferation of Small Weapons among Civilians ?</p>
+<p>Should temples be allowed to have gender specific rules ?</p>
+<p>Do you think the rate at which our current economy is growing, enough to make India a developed country ?</p>
+<p>Who should be held responsible for Lynching ?</p>
+<p>i) Social Media sites, or ii) State government.</p>
+<p>Do you think renaming of roads and cities is necessary ?</p>
+<p>Is Pakistan\'s army a block to peace between India and Pakistan ?</p>
+<p>Banning the entry of women in temple is unconstitutional, but still in practice.What is the way out to this problem ?</p>
+<p>What causes maximum threat to humanity ? Terrorism, Natural Disasters or Pollution.</p>
+<p>The Indian Government has recently stripped the special status of J&amp;K to bifurcate it into two UTs. What do you think will be the major fall out of this move.</p>
+<p>Child Labor still exists in many parts of our country. What Labor Reforms do we need ?</p>
+      
+        ]]>
+
+    </string>
+
+    <string name="lecturtee">
+        
+        <![CDATA[
+
+        ]]>
+
+    </string>
+
+    <string name="lectureteetopics">
+
+
+        <![CDATA[
+        <p dir="ltr">01. Health Care Preparedness in India</p>
+<p dir="ltr">02. Covid-19 Crisis</p>
+<p dir="ltr">03.&nbsp;<a href="https://military-choice.blogspot.com/2019/03/ssb-lecturette-essay-agricultural-crisis-in-india.html">Agricultural or Farm Crisis in India</a></p>
+<p dir="ltr">04. Disasters in India</p>
+<p dir="ltr">05. Bank Crisis in India</p>
+<p dir="ltr">06. Rising Suicide Cases in India</p>
+<p dir="ltr">07.&nbsp;<a href="https://military-choice.blogspot.com/2017/12/ssb-interview-lecturette-topic-cyber-crime-with-answer.html">Cybercrime</a></p>
+<p dir="ltr">08. World Health Organization (WHO)</p>
+<p dir="ltr">09. Access to Internet a Fundamental Right</p>
+<p dir="ltr">10. India Nepal Border Dispute</p>
+<p dir="ltr">11. E-waste Clinic</p>
+<p dir="ltr">12. Non Performing Assets</p>
+<p dir="ltr">13.&nbsp;<a href="https://military-choice.blogspot.com/2017/09/SSB-lecturette-with-answer-on-uniform-civil-code.html">Uniform Civil Code</a></p>
+<p dir="ltr">14. Ayodhya Dispute</p>
+<p dir="ltr">15. Global Warming</p>
+<p dir="ltr">16. Reservation in Promotion</p>
+<p dir="ltr">17. Mental Health Care Systems</p>
+<p dir="ltr">18. Nuclear Weapon</p>
+<p dir="ltr">19.&nbsp;<a href="https://military-choice.blogspot.com/2019/07/chandrayaan-i-indias-first-mission-to-moon.html">Chandrayaan I</a></p>
+<p dir="ltr">20. Citizenship Amendment Act</p>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr">21. Ayushman Bharat &ndash; PMJAY Scheme</p>
+<p dir="ltr">22. Labour Reforms in India</p>
+<p dir="ltr">23. Capital Punishment</p>
+<p dir="ltr">24. New Normal after Covid-19</p>
+<p dir="ltr">25. Nepotism in India</p>
+<p dir="ltr">26. US &amp; Taliban Peace Deal</p>
+<p dir="ltr">27. Rural Women Empowerment</p>
+<p dir="ltr">28. Jobless Growth in India</p>
+<p dir="ltr">29. Extreme Weather and Health Hazards</p>
+<p dir="ltr">30. Police Reforms in India</p>
+<p dir="ltr">31. Women in Armed Forces</p>
+<p dir="ltr">32. Decriminalisation of Politics</p>
+<p dir="ltr">33. Atmanirbhar Bharat</p>
+<p dir="ltr">34.&nbsp;<a href="https://military-choice.blogspot.com/2017/12/afspa-pros-cons-ssb-lecturette-answer.html">AFSPA - Armed Forces Special Power Act</a></p>
+<p dir="ltr">35. Tourism in india</p>
+<p dir="ltr">36. Ease of Doing Business</p>
+<p dir="ltr">37. Migrant Workers in India</p>
+<p dir="ltr">38. US &amp; China Trade rift</p>
+<p dir="ltr">39. Data Protection - Technology and Privacy</p>
+<p dir="ltr">40. Economic Impact of Covid-19</p>
+<p dir="ltr">41. World Health Organization (WHO)</p>
+<p dir="ltr">42. Climate Change</p>
+<p dir="ltr">43. India &amp; Shanghai Cooperation Organisation (SCO)</p>
+<p dir="ltr">44. Interstate water disputes</p>
+<p dir="ltr">45. Artificial Intelligence</p>
+<p dir="ltr">46. Climate Change</p>
+<p dir="ltr">47. Issues concerning Elections in India</p>
+<p dir="ltr">48. Challenges in Civil Aviation Sector</p>
+<p dir="ltr">49. Racism in India</p>
+<p dir="ltr">50. Swachh Bharat Mission</p>
+<p dir="ltr">51.article 371</p>
+<p dir="ltr">52.covid-19 vaccine&nbsp;</p>
+<p dir="ltr">53.india &nbsp;and nebouring countries relations</p>
+<p dir="ltr">54.chabhar project india-iran-afganistan</p>
+<p dir="ltr">55.tourism in india</p>
+<p dir="ltr">56.app market&nbsp;india</p>
+<p>don\'t worry lecturtee topics will come generally from current afairs or imprtant topics like trade war,relations with other countries and all.&nbsp;</p>
+
+        ]]>
+
+
+
+    </string>
+
+
+    <string name="gpemiddle">
+<![CDATA[<p><strong><em><span class="title-blog">GROUP PLANNING EXCERCISE</span></em></strong></p>
+<p><strong><em>&nbsp;CONDUCT:-</em></strong></p>
+<p align="justify">It is an indoor task. All the participants are briefed about the task while they are sitting in a horseshoe formation with the map/modal placed between them. There are five stages.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<table cellspacing="1" cellpadding="1" align="center">
+<tbody>
+<tr>
+<td><img src="http://www.cavalier.in/uploaded_files/userfiles/images/IMG_6232.JPG" alt="" /></td>
+<td><img src="http://www.cavalier.in/uploaded_files/userfiles/images/017.jpg" alt="" /></td>
+</tr>
+
+</tbody>
+</table>
+<p align="justify"><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&bull;&nbsp;The G.T.O introduces the candidates to the map or the model in the<br />&nbsp; &nbsp;a simple and detailed&nbsp;manner.</p>
+<p align="justify"><br/>&bull;&nbsp;The G.T.O then reads out a story and relates it to the map/model. The<br />&nbsp; &nbsp;story will bring out a set of problems which the candidates have to<br />&nbsp;&nbsp; resolve in their planning.</p>
+<p align="justify"><br/>&bull;&nbsp;The same story card is handed over to the candidates individually for<br />&nbsp; &nbsp;them to read and understand in the five minutes allotted.</p>
+<p align="justify"><br/>&bull;&nbsp;The candidates are then given 10minutes to make their plans<br />&nbsp; &nbsp;individually and also write the plan.</p>
+<p align="justify"><br/>&bull;&nbsp;Once the plans are written individually, the group is then put through a<br />&nbsp; &nbsp;discussion for 15-20 minutes with an aim to work out a common plan.</p>
+<ul>
+<li>After a common plan is arrived at, one of the members narrates the same to the G.T.O on behalf of the group.</li>
+</ul>]]>
+
+    </string>
+
+
+    <string name="gpeintroo">
+        <![CDATA[
+
+<h3 style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 1.4; vertical-align: baseline; font-family: Raleway; font-size: 18px; font-style: normal; font-weight: 600; color: rgb(51, 51, 51); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 18px; font-style: inherit; font-weight: 600;"><u style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 18px; font-style: inherit; font-weight: inherit;"><span style="color: rgb(184, 49, 47);">SSB Group Planning Exercise (GPE) </span><br style="box-sizing: border-box;"></u></strong></h3>
+<ul style="box-sizing: border-box; margin: 15px 0px 15px 20px; padding: 0px; border: 0px; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: Raleway; font-size: 15px; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; list-style-type: none;"><br>
+        <ul style="box-sizing: border-box; margin: 0px 0px 0px 25px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;">
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);"> In SSB Group planning exercise (GPE) comprises of five stages to include, explanation of the model, reading of the narrative by GTO, five minutes for self-reading by candidates, 10 minutes for individual written solutions and 20 minutes for group discussion. The narration of the group solution and definite conclusion is required</span></li>
+        </ul>
+    </li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; list-style-type: none;"><span style="color: rgb(250, 197, 28);"><br></span>
+        <ul style="box-sizing: border-box; margin: 0px 0px 0px 25px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit;">
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);">In GPE always remember that the problems will be of the important, less important type or to divert your attention to low priority tasks.<br></span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);"><br></span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);">First, listen to the problem/situation very carefully and chalk out your priorities and arrange your problems according to that.</span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);"><br></span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);">Note down the helping materials and possible resources that be used subject to practicability.</span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);"><br></span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);">Do not be superficial and solve problems simultaneously as time is a constraint.</span></li>
+            <li style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: inherit; text-align: justify;"><span style="color: rgb(250, 197, 28);">At the time of a common plan, the discussion doesn&rsquo;t hesitate to coin your opinion if it is different but useful</span><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-variant: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: inherit; font-size: 15px; font-style: inherit; font-weight: 600;"><span style="color: rgb(250, 197, 28);">.</span></strong></li>
+        </ul>
+    </li>
+</ul>
+
+
+    ]]>
+
+
+    </string>
+    <string name="pgt">
+
+    <![CDATA[
+
+    <h3>What is Progressive Group Task?</h3>
+<p>Progressive Group Task (PGT) is the heart of the group testing task series. It is very simple and fun task which helps in unwrapping the qualities lying inside an individual.</p>
+<div id="lead_btns_1">
+<div class="d-flex justify-content-center my-6 content-lead-btns desktop">&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+<p>These group exercises are formed in such a way that they test the ability of candidates to perform in a team and how they face the problems practically.</p>
+<p>The groups are formed without any team leader so that the entire group should work with an essence of cooperation. The exercises are simple and there are many numbers of solutions for them so all the candidates should be focused and think with a calm nerve before coming up for a solution.</p>
+<p>The whole exercise lasts up to 40 to 45 minutes starting with most easy tasks and ending with difficult ones. All the exercises are supervised under an officer (GTO). In this task the candidates are required to cross the start and finish lines carrying a load with supporting material.</p>
+<p>The GTO explains in all the instructions before the commencement of the task and also informs about structures or materials not to be touched and the areas out of bound. He then handles them a wooden plank, pole and ropes which should be used to pass through the obstacles. Once the candidates complete these obstacles he is taken to another one and the task continues till the last exercise.</p>
+<p>However, there are certain rules which candidates should follow during PGT.</p>
+<hr />
+<h3>Rules of Progressive Group Task:</h3>
+<ul>
+<li>The first is the colour rule. The structures are painted in mainly three different colours red, white and blue. White- both, candidates and helping material can be touched. Blue- ONLY candidate can be touched, helping material cannot. Red- &nbsp;out of bounds for both candidates and the helping material.</li>
+<li>The second rule is rigidity rule it states that two rigid helping materials cannot be tied together however they can be tied with the structures.</li>
+<li>The third is the rule of infinity according to which the starting and finishing line of obstacle can extend till infinity. These lines cannot be crossed by a group directly.</li>
+<li>The fourth rule is distance rule it states that gap more than four feet cannot be jumped, it should be bridged using the helping material.</li>
+<li>The fifth rule is group and load rule according to which the entire group along with load and helping material should move together at any given time throughout the entire course of PGT.</li>
+</ul>
+<p>&nbsp;There is as such no preparation required for PGT. The exercises of PGT are very easy and they are to test your instincts and your role and contribution in a team. One needs to be calm and focused before starting the task. Just remember these four don&rsquo;ts and you can surely pass all the obstacles of PGT. Don&rsquo;t criticize, don&rsquo;t shout, don&rsquo;t break the rules and most importantly don&rsquo;t give up keep trying.</p>
+
+    ]]>
+</string>
+
+    <string name="hgt">
+        <![CDATA[
+
+
+<p>Half Group Task HGT is similar to PGT, but the difference is that the group is divided into two sets. Like this the GTO will see the performance of the candidates in close. The rules are same for this like PGT.</p>
+<h2>What Is Half Group Task In SSB Interview GTO Round</h2>
+<p><span lang="EN-US">your group contains totally 10 persons, then it is divided into 5 of two groups. Like this the GTO will see the performance of the candidates in close. The rules are same for this like PGT. It is also a leaderless exercise .</span></p>
+
+]]>
+    </string>
+
+    <string name="fgt">
+
+        <![CDATA[
+
+
+<p><strong>This is the last task at the S.S.B.&nbsp; Already before this task the G.T.O will down and choose the candidate based on performance in their previous tasks.&nbsp; So it is also a last chance for the candidates to show up their qualities.&nbsp; Even some candidates may get a few chances to prove in P.G.T.&nbsp; So those candidates should use this to prove their leadership qualities.</strong><br /><br /><strong>It is also a P.G.T, but in P.G.T. the group has to cross four obstacles.&nbsp; Here in the F.G.T we have to cross only one.&nbsp;&nbsp;So all should be fast in their decisions to work out their plans.</strong><strong>Others rules such as rules for helping materials, out of bound area are same as P.G.T and H.G.T.&nbsp;&nbsp;</strong></p>
+<p><strong>Since this type of tasks are known to us by working with P.G.T and H.G.T.&nbsp; Each candidate should give more ideas in executing the task.&nbsp; Also there should be good team coordination between them as you people are working for two days.&nbsp; These are the expectation of G.T.O in F.G.T.</strong><br /><strong>Others things are same as P.G.T and it is given below as same as above&nbsp; :-&nbsp;</strong><br /><br /><br /><strong>Example Scenario about F.G.T.:-</strong></p>
+<p><strong>&nbsp;The obstacles are painted in three colors namely</strong></p>
+<ul>
+<li><strong>White</strong></li>
+<li><strong>Black</strong></li>
+<li><strong>Red</strong></li>
+</ul>
+<p><strong>Each one describes one rule. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>
+<p><strong>White: -&nbsp;Both the candidate and the helping materials can touch the obstacle at this region.</strong><br /><strong>Black: -&nbsp;Only the candidate can touch the obstacle in this region and not the helping materials.</strong><br /><strong>Red&nbsp;&nbsp; : -&nbsp;Both the candidate and helping material should not touch the obstacles.</strong><br /><br /><br /><strong>Out of bound area:-</strong><br /><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong><br /><strong>The areas in the F.G.T which should not be touched are called as out of bound areas.&nbsp; These areas include the mud surfaces inside the task area and some color codes as described above.</strong><br /><br /><strong>Usage of helping materials and its usage:-&nbsp;&nbsp;&nbsp;</strong><br /><strong>&nbsp;The helping materials given are wooden plank(6 feet length), balli (wooden log), and rope.&nbsp; Along with this they will give a load to carry from one end to another end.&nbsp; With these helping materials we implement several techniques such as cantilever, fulcrum etc to cross over the obstacles along with the group.&nbsp; See this and get the idea about fulcrum, cantilever and F.G.T structures.&nbsp;&nbsp;&nbsp;&nbsp;</strong><br /><br /><br /><strong>Things to follow at F.G.T:-</strong></p>
+<ol>
+<li><strong>Never look at the G.T.O while doing the tasks.</strong></li>
+<li><strong>Be yourself&nbsp;as I stated earlier in the G.D itself.</strong></li>
+<li><strong>Give a good idea to the group if you don&rsquo;t know any idea just help the idea givers truthfully.</strong></li>
+<li><strong>Never violate the rules it is the basic of G.T.O tasks, and in case if you violate the rule, just repeat the task.&nbsp;&nbsp;</strong></li>
+<li><strong>Be an active participant in the team by giving your full cooperation.&nbsp;</strong></li>
+<li><strong>Be positive in your views i.e. take consideration about other members ideas if it is finer than yours.&nbsp;</strong></li>
+</ol>
+
+
+]]>
+
+
+    </string>
+
+    <string name="commandtask">
+
+        <![CDATA[
+
+        <div>
+<div>
+<h2>How to approach Command Task in SSB&nbsp;</h2>
+</div>
+</div>
+<p>Command Task is the 7th task that is conducted as a part of the GTO testing series. It is conducted on GTO Day 2. It&rsquo;s a<strong>&nbsp;strategy based</strong>&nbsp;task and puts your&nbsp;<strong>leadership skills</strong>&nbsp;to the test. It has to be performed individually with 2-3 of your chosen sub-ordinates from the group.<br /><a name="more"></a></p>
+<h3><strong>Key aspects of Command Task in SSB</strong></h3>
+<ul>
+<li>Time Duration: (<strong>5</strong>&nbsp;&ndash;&nbsp;<strong>15</strong>)&nbsp;<strong>minutes</strong></li>
+<li>The GTO will brief the candidate about the obstacle and will&nbsp;<strong>make</strong>&nbsp;him/her a&nbsp;<strong>commander</strong>.</li>
+<li>The GTO will then ask the candidate to call&nbsp;<strong>2 sub-ordinates</strong>.</li>
+<li>The commander (candidate) has to&nbsp;<strong>tackle</strong>&nbsp;the given obstacle&nbsp;<strong>with the help</strong>&nbsp;of their sub-ordinates within a&nbsp;<strong>given time frame</strong>.</li>
+<li>Helping material provided: Rope, Plank, Wooden Log, Load and other task related materials.</li>
+<li>The obstacles will be painted with&nbsp;<strong>different colours&nbsp;</strong>on certain parts. Each colour has a&nbsp;<strong>rule</strong>.</li>
+<li>If anything has&nbsp;<strong>White</strong>&nbsp;painted on it, this means that it&nbsp;<strong>can be touched</strong>&nbsp;by the candidate as well as the helping materials.</li>
+<li>If anything has&nbsp;<strong>Red</strong>&nbsp;painted on it, this means that<strong>&nbsp;it&rsquo;s out of bounds</strong>&nbsp;and can&rsquo;t be touched by the candidate or the helping material.</li>
+<li>If anything has&nbsp;<strong>Blue</strong>&nbsp;painted on it, this means that the&nbsp;<strong>candidate can touch</strong>&nbsp;it but it&rsquo;s&nbsp;<strong>out of bounds</strong>&nbsp;for the&nbsp;<strong>helping material&nbsp;</strong>and it can&rsquo;t be touched by it.</li>
+</ul>
+<h3><strong>Key points to remember during Command Task in SSB</strong></h3>
+<ul>
+<li>Before the start of the task the GTO will have a&nbsp;<strong>few words</strong>&nbsp;with the candidate and ask a&nbsp;<strong>few</strong>&nbsp;<strong>questions</strong>. Answer them&nbsp;<strong>confidently</strong>&nbsp;and<strong>&nbsp;truthfully</strong>.</li>
+<li>As soon as you are briefed about the task, start&nbsp;<strong>thinking about a strategy</strong>&nbsp;to complete it.</li>
+<li>The sub-ordinates have to be selected&nbsp;<strong>according</strong>&nbsp;to the strategy that you&rsquo;ve made.&nbsp;<strong>Logically deduce&nbsp;</strong>which group members to nominate. They have to be the ones who would<strong>&nbsp;effectively help</strong>&nbsp;you to&nbsp;<strong>overcome&nbsp;</strong>the task.</li>
+<li>Being a commander&nbsp;<strong>doesn&rsquo;t mean you can&rsquo;t ask for advice</strong>&nbsp;from your sub-ordinates. It&rsquo;s natural to do so if you&rsquo;re genuinely stuck.</li>
+<li>The GTO will keep making the task&nbsp;<strong>difficult</strong>&nbsp;by putting some&nbsp;<strong>restrictions</strong>&nbsp;on the obstacle or the helping materials. Don&rsquo;t worry this is done to check if you can&nbsp;<strong>adapt</strong>&nbsp;to different&nbsp;<strong>circumstances&nbsp;</strong>or not. The GTO may also offer some&nbsp;<strong>hints</strong>&nbsp;to complete the task if you&rsquo;re stuck.</li>
+<li>The GTO will<strong>&nbsp;pressurize&nbsp;</strong>you during the task by calling out the time that you have left. Keep&nbsp;<strong>a</strong>&nbsp;<strong>cool and a level head</strong>&nbsp;while attempting the task,&nbsp;<strong>don&rsquo;t get stressed</strong>&nbsp;otherwise it&rsquo;ll hamper your performance only.</li>
+<li>If you aren&rsquo;t able to think,<strong>&nbsp;don&rsquo;t give up</strong>, keep thinking because there is always a solution to the obstacles. Try to&nbsp;<strong>think out of the box</strong>.</li>
+<li>As a commander it&rsquo;s&nbsp;<strong>your responsibility</strong>&nbsp;to get the&nbsp;<strong>task done</strong>&nbsp;and take&nbsp;<strong>your sub-ordinates with you</strong>.</li>
+</ul>
+<p><strong>Command Task in SSB</strong>&nbsp;is the task where you get to showcase your ideas and problem solving abilities if you weren&rsquo;t able to do so in the previous tests. To improve your problem solving skills solve riddles, try to do things in a different way, see if something can be done with another approach. Learn the physics and logic behind different structures and why they are made that way. This can be done easily at home as well.</p>
+
+]]>
+
+
+    </string>
+
+
+    <string name="snakerace">
+        <![CDATA[
+
+<p><span class="dropcap ">S</span>nake Race or mostly known as Group Obstacle Race (GOR) is one of the interesting but painful tasks in SSB Interviews, it is interesting because you have to cheer a lot and you will enjoy as you will compete with other groups and painful because you would be one of the lucky persons who escaped uninjured from that race. Do not bother about the injury as generally, it will be some scratch on your knees or elbows however at times this task results in serious injury also, but your aim should be to perform well in the race rather than thinking about those injuries.</p>
+<p>Your Group has to decide a&nbsp;<strong>War Cry</strong>&nbsp;(a slogan) which you have to continuously shout to cheer your group.</p>
+<p>&nbsp;</p>
+<div class="e3lan e3lan-in-post2">&nbsp;</div>
+<p><strong>GTO&rsquo;s Briefing</strong></p>
+<p>Till now you have been working within your group but in this task which is known as GOR, you will be having a competition with the other groups. This task consist of&nbsp;<strong>6</strong>&nbsp;obstacles, each obstacle is divided into 4 channels, you will be told which channel to follow throughout in this task. Your group have to also carry a load the load is in form of a rolled-up tent and since it looks like a snake the task is also known as snake race, The group rule, colour rule and rule of infinity are applicable to this task, however, the distance rule is modified in a sense that the candidates are permitted to Jump more than 4 feet.</p>
+<div class="box shadow  ">
+<div class="box-inner-block"><strong><a href="https://www.ssbguru.com/latest/perform-well-snake-race.html">How to perform well in Snake Race</a></strong></div>
+</div>
+<div class="e3lan e3lan-in-post1">&nbsp;</div>
+<p>&nbsp;</p>
+<p><strong>Rules for Snake</strong></p>
+<ol>
+<li>Once the snake or the Load is picked up at start line it can&rsquo;t be kept down till the finish line is reached.</li>
+<li>The snake is not to be shortened or folded in any respect.</li>
+<li>While running the snake must be kept parallel to the ground.</li>
+<li>The snake will follow the same path as by the group members.</li>
+<li>While running from obstacle to obstacle (between the obstacle) all the candidate of the group must hold on to the</li>
+<li>While Doing an obstacle a minimum of&nbsp;<strong>3</strong>&nbsp;candidates have to hold on to the snake.</li>
+</ol>
+<p><strong>Snake Race Structures</strong></p>
+<p>&nbsp;</p>
+<figure id="attachment_759" class="wp-caption alignright"><br />
+<figcaption id="caption-attachment-759" class="wp-caption-text">Structures are not arranged in proper sequence and the first structure is quite simple and is not mentioned here.</figcaption>
+</figure>
+<p><strong>Penalties</strong></p>
+<p>In case if you broke any of the above-mentioned rules or any colour rule then two types of penalties will be given to the group.</p>
+<ol>
+<li><strong>Time penalty</strong>&ndash; in time penalty GTO will make you count 10 or 5 seconds loudly and during that counting, no member of your group is allowed to move so your time will be wasted.</li>
+<li><strong>Repetition penalty</strong>&nbsp;&ndash; Some of the candidates may be asked to repeat a particular obstacle on which your group or its members have not followed the rule.</li>
+</ol>
+
+]]>
+    </string>
+
+    <string name="gor">
+
+
+        • Group Obstacle Race is an outdoor group task also known as the Snake Race.
+
+• The candidates are divided into four respective groups of about 08 to 10 candidates.
+
+• The group is required to carry a snake through the 06 Obstacles which is actually a tent rolled into the shape of a huge snake.
+
+Objectives of the Group Obstacle Race:
+
+The GTO assess the following qualities in a candidates through the Group Obstacle Race or Snake Race
+
+• Physical and Mental Toughness of each candidate in a group.
+
+• Determination and Courage of the group.
+
+• Team Spirit and Self Confidence.
+
+• Cooperation.
+
+• Sense of Responsibility
+
+• Ability to initiate
+
+• Interest and Enthusiasm in the Obstacle Race.
+
+Rules and Procedure of the Group Obstacle Race:
+
+• Most of all, once you pick up the snake it must not touch the ground until you have crossed the finish line.
+
+• The snake should take exactly the same course as you take in each obstacle.
+
+• The snake is not to be folded or shortened in any manner and at any one time a minimum of three people should hold it.
+
+• The group rule is applicable. Therefore, you must wait for the entire group before going to the next obstacle.
+
+• As in PGT, you or your snake must not touch any of the out of bound areas.
+
+• You can cheer up your members and use War Cries such as Jai Hind, Bharat Mata Ki Jai etc. for the motivation.
+
+• Don\'t shout at or abuse any member in your group.
+
+Important Points to Remember during Group Obstacle Race:
+
+• Hold the snake as much as possible.
+
+• Cheer the group and help others.
+
+• Remain active in the group.
+
+• Do not highlight minor injuries
+
+• Lastly, volunteer to repeat
+
+• Give an impression that you have done well in the task.
+
+Here is the list of Obstacles in Snake Race:
+
+The different types of obstacles in Group Race are
+
+Obstacle No. 01 (Ramp and Jump)
+
+• This obstacle is quite simple and easy to cross.
+
+• You have to climb through a plank or ballies with snake and jump to the other side of the obstacle.
+
+• Next, go to the next obstacle once all the candidates have crossed the first obstacle.
+
+Obstacle No. 02 (Figure 08)
+
+• You have to make the figure of 08 to complete this obstacle.
+
+• Furthermore, the first thing that the candidates have to do here is to get on the middle structure and then go over the top from front side and come back on middle balli from the other side and down to the ground making the figure of 08.
+
+Obstacle No. 03 (Spider Web)
+
+• In this task, there is a high goal post (09 Feet in Height) like structure with a net of ropes tied on both sides.
+
+• All the members of group along with snake has to cross this structure.
+
+Obstacle No. 04 (Double Wall and Balli)
+
+• The structure of this obstacle is like two walls (06 Inches and 06 Feet in Height) joined by a thick balli on top.
+
+• Also, everyone in the group has to climb the first wall then cross the balli to the next wall then jump on the other side.
+
+Obstacle No. 05 (High Wall)
+
+• In this Obstacle, there is a wall of 08 Feet in Height.
+
+• Here 01 candidate, who is strong build can go up to the wall and stand there, other candidates can go up the top of the wall by climbing on the shoulder of that candidate.
+
+Obstacle No. 06 (Ramp and Slide)
+
+• In this Obstacle, horizontal ballies are placed on both side of the top of a 07 or 08 Feet high pole.
+
+• Further, every candidate has to climb the horizontal ballies with the help of standing ballies and then slide down to the other side.
+   </string>
+
+    <string name="waystojoinarmy">
+        <![CDATA[
+        <h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">1. National Defence Academy Exam</h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">The <a href="https://ssbcrackexams.com/course/nda-exam/" rel="noreferrer noopener" style="box-sizing: border-box; transition: all 0.1s ease-in-out 0s; color: rgb(24, 77, 213); text-decoration: none;" target="_blank"><strong style="box-sizing: border-box; font-weight: 700;">NDA exam</strong></a> is conducted by UPSC for the aspirants who are in 10+2 and want to join the Army, Navy and Airforce after 12th.</p>
+<p><br></p>
+<figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <figcaption style="box-sizing: border-box; display: block; margin-top: 0.5em; margin-bottom: 1em;"><br></figcaption>
+</figure>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">2. Combined Defence Services Exam [CDS Exam]</h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">The <strong style="box-sizing: border-box; font-weight: 700;"><a href="https://ssbcrackexams.com/course/cdse/" style="box-sizing: border-box; transition: all 0.1s ease-in-out 0s; color: rgb(24, 77, 213); text-decoration: none;">CDS Exam</a></strong> is conducted by UPSC for the aspirants who are in the final year of graduation or passed out of college. Through CDS exam, one can join, IMA, AFA, INA and OTA. Women can only join OTA Chennai through CDS Exam.</p>
+<p><br></p>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><br></p>
+<figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <figcaption style="box-sizing: border-box; display: block; margin-top: 0.5em; margin-bottom: 1em;"><br></figcaption>
+</figure>
+<figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"><br></figure>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">3. <strong style="box-sizing: border-box; font-weight: 700;">Territorial Army</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">The Territorial Army is part of Regular Army and its present role is to relieve the Regular Army from static duties and assist civil administration in dealing with natural calamities and maintenance of essential services in situations where life of the communities is affected or the Security of the Country is threatened and to provide units for Regulars Army as and when required.</p>
+<ul style="box-sizing: border-box; margin: 0px 0px 26px 40px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <li style="box-sizing: border-box; list-style-type: disc;"><br></li>
+</ul>
+<figure class="wp-block-image size-large" style="box-sizing: border-box; display: block; margin: 0px 0px 1em; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <figcaption style="box-sizing: border-box; display: block; margin-top: 0.5em; margin-bottom: 1em;"><br></figcaption>
+</figure>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">4. <strong style="box-sizing: border-box; font-weight: 700;">Technical Entry Scheme (TES)</strong> <strong style="box-sizing: border-box; font-weight: 700;">10+2&nbsp;</strong>:</h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Candidates who have qualified 10+2 CBSE/ICSE/State Board Examination with minimum aggregate of 70% marks in Physics, Chemistry and Mathematics are eligible to apply for commission under the 10+2(TES). On being successful in the SSB and being declared fit by the medical board, they undergo one year basic military training at the Training Academy and thereafter undergo three years engineering degree course in respective streams before getting Permanent Commission. On being commissioned, they are further put through one year of post commissioning training for the Arm/Service into which they are commissioned. Upcoming TES Notification:</p>
+<p><br></p>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">5. <strong style="box-sizing: border-box; font-weight: 700;">Technical Graduates Course (TGC)</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Engineering graduates from the notified discipline of engineering, postgraduates with minimum second division aggregate marks in notified discipline for Army Education Corps and MSc in Agriculture/Dairy for Military Farm are eligible to apply for Permanent Commission through this entry. After the SSB and the Medical Board, the selected candidates are required to undergo one-year pre-commissioned training at the IMA, Dehradun, before being commissioned. Engineering Graduates through this entry are also entitled to one-year antedate seniority on commissioning. The candidates are directly shorlisted for SSB interview based on their percentage. Upcoming TGC notifications:</p>
+<ul style="box-sizing: border-box; margin: 0px 0px 26px 40px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <li style="box-sizing: border-box; list-style-type: disc;"><br></li>
+</ul>
+<div class="wp-block-image" style="box-sizing: border-box; margin-bottom: 1em; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <figure class="aligncenter size-large" style="box-sizing: border-box; display: table; margin: 5px auto; clear: both;"><br></figure>
+</div>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">6. <strong style="box-sizing: border-box; font-weight: 700;">Short Service Commission (Technical) Entry</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">The Short Service Commission (Technical) Entry Scheme provides avenue for recruitment to eligible technical graduates/post graduates into Technical Arms. After SSB and Medical Board, the selected candidates are required to undergo approximately 140 49 weeks pre-commission training at OTA, Chennai. On completion of training, they are inducted as Short Service Commissioned Officers. Cadets through this entry are also entitled to one year&rsquo;s ante-date seniority on commissioning. Terms and conditions of other short service commission officers are applicable. The candidates are directly shortlisted for SSB interview based on their percentage. SSC Tech upcoming notification:</p>
+<p><br></p>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">7. <strong style="box-sizing: border-box; font-weight: 700;">NCC (Special Entry Scheme)</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">University graduates possessing NCC &lsquo;C&rsquo; Certificate with minimum &lsquo;B&rsquo; grade and 50% aggregate marks in graduation examination are eligible to apply for Short Service Commission through this entry. Those studying in third year are allowed to apply provided they have secured minimum 50% aggregate marks in first two years. Such candidates will need to secure overall aggregate of minimum 50 % marks if selected in interview failing which his candidature will be cancelled. Candidates must possess graduation degree at the time of joining OTA or those candidates studying in third year should be able to produce the degree within 12 weeks from date of commencement of training at OTA. Such cadets are exempted from written examination conducted by the UPSC and are directly put through the SSB interview followed by a medical board. Candidates meeting the qualitative requirements have to apply through NCC Group Headquarters at the State level. After Screening by respective Group Headquarters, Directorate General of NCC forwards the applications of eligible cadets to the Recruiting Directorate of Integrated Headquarters of Ministry of Defence (Army). Upcoming NCC Special Entry Scheme notifications:</p>
+<ul style="box-sizing: border-box; margin: 0px 0px 26px 40px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <li style="box-sizing: border-box; list-style-type: disc;"><br></li>
+</ul>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">8. <strong style="box-sizing: border-box; font-weight: 700;">Judge Advocate General Entry</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Law graduates with minimum 55% aggregate marks in LLB and between 21 to 27 years of age can apply for Judge Advocate General Branch. Eligible candidates are called for direct SSB interview and medical test, thereafter. It is a Short Service Commission Entry wherein suitable candidates can opt for Permanent Commission.</p>
+<ul style="box-sizing: border-box; margin: 0px 0px 26px 40px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+    <li style="box-sizing: border-box; list-style-type: disc;"><br></li>
+</ul>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">9. <strong style="box-sizing: border-box; font-weight: 700;">Short Service Commission Women</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Eligible women candidates are recruited in the Army as Short Service Commission Officers. Commission is granted in Corps of Electronic and Mechanical Engineers, Corps of Engineers, Signals, Army Educational Corps, Military Intelligence Corps, Judge Advocate General&rsquo;s Branch, Army Supply Corps, Army Ordnance Corps and Army Air Defence. Women are offered Short Service Commission in three streams viz. Non-Technical Graduate, Technical and Post Graduate/ Specialist for a period of ten years, extendable by additional four years purely on voluntary basis. Recently, Government of India had granted option for permanent commission for 141 officers in Army Education Corps and Judge Advocate General Branch after completion of 10 years of service. The duration of training is 49 weeks at Officers Training Academy, Chennai. For Short Service Commission Women (Technical) Entry, passed or final year/ semester students of B.E/ B.Tech in notified streams are eligible to apply. Eligible candidates appear for direct SSB interview and Medical Test, thereafter. The applicants for Non-Technical Graduate, however, would be required to apply through UPSC and after written examination would come up for SSB interview as is being done for Short Service Commissioned male officers. A total of 20% allotted seats from NonTechnical stream have been reserved for NCC &lsquo;C&rsquo; certificate holder women candidates with minimum &lsquo;B&rsquo; grade and 50% aggregate marks in graduation examination. The applications will be routed through NCC Directorate, Integrated Headquarters of Ministry of Defence (Army), as applicable for male officers. For Judge Advocate General Branch, applications are invited from Law Graduates with minimum 55%, for direct SSB interviews. Widows of Defence Personnel who meet the laid down eligibility criteria are granted four years age relaxation and 5% seats of each course (2.5 each in Tech and Non-Tech) are reserved for them. Short Service Commission Women&nbsp;(Tech), NCC entry and Judge Advocate General Branch are exempted from written examinations and would need to apply directly to Additional Directorate General of Recruiting, Integrated Headquarters of Ministry of Defence (Army). The notification would be published along with SSCW (Tech) twice a year.</p>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">10. <strong style="box-sizing: border-box; font-weight: 700;">Army Cadet College (ACC) Entry</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">The eligible Other Ranks (OR) in age group of 20-27 years and minimum two years of service, having 10+2 pass qualification can apply for Regular Commission. After qualifying in written examination conducted by the Military Training Directorate, the aspirants are screened by SSB and the Medical Board. Successful candidates are trained at Army Cadet College Wing, Dehradun, for three years at the end of which they get a graduation degree. This is followed by one year precommission training at IMA, Dehradun.</p>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">11. <strong style="box-sizing: border-box; font-weight: 700;">Special Commissioned Officers (SCO) Scheme</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Under this entry JCOs/NCOs/OR in the age group 142 of 28-35 years, with a Senior School Certificate Pass (Class 10+2 pattern) qualification, are eligible for Permanent commission after screening by SSB and Medical Board. They have to undergo pre-commission training of one year at OTA Gaya. The rules for substantive promotion and acting promotion are the same as for regular officers. These officers are employed in units as sub unit commander/ Quarter Master and on various Extra Regimental Employment appointments up to the rank of Major. They retire at the age of 57 years after serving for period of about 20-25 years in the Army. The scheme not only improves the career prospects of the existing JCOs and OR but also helps in making up the deficiency of the support cadre officers in the Army to some extent.</p>
+<h4 style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, sans-serif; font-weight: 700; line-height: normal; margin: 0px 0px 16px; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">12. <strong style="box-sizing: border-box; font-weight: 700;">Permanent Commission (Special List) (PC SL)</strong></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 26px; padding: 0px; color: rgb(51, 51, 51); font-family: sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Under this entry, JCOs/ NCOs/ OR up to 42 years of age and minimum 10 years of service, with a Senior Schools Certificate Pass (Class 10+2 pattern) qualification are eligible for commission after screening by SSB and Medical Board. They are granted PC (SL) after successful completion of four weeks orientation training at the IMA.</p>
+
+
+]]>
+
+    </string>
+
+    <string name="facebook_app_id">301754817735088</string>
+    <string name="fb_login_protocol_scheme">fb301754817735088</string>
+
+    <string name="logo_name">defenceAspire</string>
+    <string name="logo_namei">we will help you to find your way</string>
+
+
+    <string name="oirstart">Insruction for OIR test\n\n
+        1.The the test will contain 40 question\n\n
+                            2.The alloted time is 25 minutes\n\n
+                            3.There is no negative marking \n\n
+                            4.Each Question carries one mark but in ssb marking system of Exam may vary depending upon the question\n\n
+                            5.Note:number of questions and timing is tentative depending upon on entry\n\n
+        6.OIR plays a important  role in ssb ,its also mention on your PIQ form.\n</string>
+
+</resources>
+
+

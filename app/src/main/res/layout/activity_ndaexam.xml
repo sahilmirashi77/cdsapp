@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backytwo"
+    android:orientation="vertical"
+    tools:context=".EXAM.Ndaexam">
+
+    <Button
+        android:id="@+id/ndasyllabus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backythree"
+        android:text="SYLLABUS" />
+
+    <Button
+        android:id="@+id/ndapreviousyear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backythree"
+        android:text="PREVIOUSYEAR" />
+
+    <Button
+        android:id="@+id/ndaexamtips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backythree"
+        android:text="EXAM PATTERN AND TIPS" />
+</LinearLayout>

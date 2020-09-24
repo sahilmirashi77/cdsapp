@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cdsmaster">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ssb.OIRstart"></activity>
+        <activity android:name=".ssb.Oirfive" />
+        <activity android:name=".ssb.Oirfour" />
+        <activity android:name=".ssb.Watfive" />
+        <activity android:name=".ssb.Watfour" />
+        <activity android:name=".ssb.Watthree" />
+        <activity android:name=".ssb.tatfive" />
+        <activity android:name=".ssb.tatfour" />
+        <activity android:name=".ssb.tatthree" />
+        <activity android:name=".ssb.srtfive" />
+        <activity android:name=".ssb.srtfour" />
+        <activity android:name=".ssb.srtthree" />
+        <activity android:name=".ssb.oirthree" />
+        <activity android:name=".loginactivity" />
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".profileActivity" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".waystojoindefence.Waysthree" />
+        <activity android:name=".waystojoindefence.waystojoin" />
+        <activity android:name=".waystojoindefence.Waystwo" />
+        <activity android:name=".waystojoindefence.navyjoin" />
+        <activity android:name=".waystojoindefence.airforcejoin" />
+        <activity android:name=".waystojoindefence.Armyjoin" />
+        <activity android:name=".ssb.individualobstaclerace" />
+        <activity android:name=".ssb.pgt" />
+        <activity android:name=".ssb.gpeclicklistener" />
+        <activity android:name=".ssb.gdtopics" />
+        <activity android:name=".ssb.Gtoclicklisteneractivity" />
+        <activity android:name=".ssb.ssbinterviewclickactivity" />
+        <activity android:name=".ssb.Srttwo" />
+        <activity android:name=".ssb.Srtone" />
+        <activity android:name=".ssb.Tatttwo" />
+        <activity android:name=".ssb.Wattwo" />
+        <activity android:name=".ssb.WAtone" />
+        <activity android:name=".ssb.physcologicaltest" />
+        <activity android:name=".ssb.OIRtwo" />
+        <activity android:name=".ssb.Timeup" />
+        <activity android:name=".ssb.OIRresult" />
+        <activity android:name=".ssb.OIR" />
+        <activity android:name=".ssb.ssbgto" />
+        <activity android:name=".ssb.ssbconference" />
+        <activity android:name=".ssb.ssbinterview" />
+        <activity android:name=".ssb.ssbphysco" />
+        <activity android:name=".ssb.ssbpp" />
+        <activity android:name=".ssb.SSBpractice" />
+        <activity android:name=".ssb.SSB_olq" />
+        <activity android:name=".ssb.SSBprocedure" />
+        <activity android:name=".EXAM.Ndaexamtips" />
+        <activity android:name=".EXAM.Ndapreviousyear" />
+        <activity android:name=".EXAM.Ndasyllabus" />
+        <activity android:name=".EXAM.Ndaexam" />
+        <activity android:name=".waystojoindefence.Ways" />
+        <activity android:name=".EXAM.Exam" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#090909"
+    android:orientation="vertical"
+    tools:context=".ssb.ssbpp">
+
+    <TextView
+        android:id="@+id/ppdt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="we have seen ppdt procedure in ssb procedure\nhere we gone see OIR test\nthere are several test for practice and demostration"
+        android:textColor="#FFC107"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/oirpractice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp"
+        android:text="these are some OIR practice set ,with time "
+        android:textColor="#009688"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/oirone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#00BCD4"
+        android:text="OIR 1" />
+
+    <Button
+        android:id="@+id/oirtwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#00BCD4"
+        android:text="OIR 2" />
+
+    <Button
+        android:id="@+id/oirthree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="2dp"
+        android:background="#00BCD4"
+        android:text="OIR3" />
+
+    <Button
+        android:id="@+id/oirfour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="2dp"
+        android:background="#00BCD4"
+        android:text="OIR 4" />
+
+    <Button
+        android:id="@+id/oirfive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:background="#00BCD4"
+        android:text="OIR 5" />
+
+</LinearLayout>

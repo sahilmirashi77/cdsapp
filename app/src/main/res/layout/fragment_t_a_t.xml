@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ssb.TAT">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/tatione"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TAT SET 1" />
+
+        <Button
+            android:id="@+id/tatitwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" TAT SET 2" />
+
+        <Button
+            android:id="@+id/tatithree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TAT SET 3" />
+
+        <Button
+            android:id="@+id/tatifour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TAT SET 4" />
+
+        <Button
+            android:id="@+id/tatifive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TAT SET 5" />
+    </LinearLayout>
+</FrameLayout>
