@@ -3,40 +3,67 @@ package com.example.cdsmaster.ssb;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.Spinner;
-import android.widget.Toast;
+
+
+import android.widget.ExpandableListAdapter;
+import android.widget.ExpandableListView;
+
 
 import com.example.cdsmaster.R;
 
-public class ssbinterview extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
-    Spinner spinner;
+public class ssbinterview extends AppCompatActivity {
 
-    String[]  ciq={"R.string.ssbappearence","R.string.decisionmakingability"};
+
+
+    ExpandableListView  expandableListView;
+
+    List<String>  faq;
+    Map<String,List<String>>  content;
+
+    ExpandableListAdapter  listAdapter;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ssbinterview);
-        spinner=findViewById(R.id.spinner);
 
-        spinner.setOnItemSelectedListener(this);
+        listAdapter=new Myexpandablelistadapter(this,faq,content);
 
-        ArrayAdapter    aa=new ArrayAdapter(this,android.R.layout.simple_spinner_item,ciq);
-        aa.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(aa);
+        expandableListView=findViewById(R.id.expandablelistview);
+        filldata();
+
+        expandableListView.setAdapter(listAdapter);
+
     }
 
-    @Override
-    public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        Toast.makeText(getApplicationContext(),ciq[position],Toast.LENGTH_LONG).show();
-    }
+    public void filldata()
+    {
+        faq=new ArrayList<>();
+        content=new HashMap<>();
+        faq.add("faqone");
+        faq.add("faqtwo");
+        faq.add("faqthree");
 
-    @Override
-    public void onNothingSelected(AdapterView<?> parent) {
+        List<String>   questionone=new ArrayList<>();
+        List<String>    questiontwo=new ArrayList<>();
+        List<String>    questionthree=new ArrayList<>();
+
+        questionone.add(getString(R.string.frequentquestion1));
+        questiontwo.add(getString(R.string.faq2));
+        questionthree.add(getString(R.string.faq3));
+
+        content.put(faq.get(0),questionone);
+        content.put(faq.get(1),questiontwo);
+        content.put(faq.get(2),questionthree);
+
+
+
 
     }
 }

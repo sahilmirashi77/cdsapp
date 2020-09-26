@@ -233,7 +233,7 @@ If you put efforts towards something in life, despite all the failures and obsta
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
 
-    <string name="ssbappearence">The looks, appearance and dress of the candidate indicates his personality. So, Be aware of these things.\n\n\n
+    <string-array name="ssbappearence"><item>The looks, appearance and dress of the candidate indicates his personality. So, Be aware of these things.\n\n\n
 Your dress should be neat, clean and ironed.\n
 Your shoes should be clean and polished.\n
 Avoid wearing new dress for the SSB Interview. Your dress should be simple and sober and according to the season of the place\n.
@@ -241,8 +241,8 @@ Don not carry your mobile, wallet, wrist watch, tuck in shirt and make sure your
 Do carry pen and blank sheet in your pocket.\n
 If your interviewer is conducted during the GTO Tests then you have to go there in the same PT dress. But make sure, your shoes laces are properly tied, socks are pulled up, shirt tucked in and no button is loose and open.\n
 Your hair should be properly combed.\n
-Use of colognes and perfumes should be avoided.\n
-    </string>
+        Use of colognes and perfumes should be avoided.\n</item>
+    </string-array>
 
 
     <string name="dosandonts">
