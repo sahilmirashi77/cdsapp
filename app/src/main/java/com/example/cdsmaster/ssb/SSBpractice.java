@@ -72,7 +72,7 @@ public class SSBpractice extends AppCompatActivity {
         interview.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(SSBpractice.this,ssbinterviewclickactivity.class);
+                Intent intent=new Intent(SSBpractice.this,ssbinterview.class);
                 startActivity(intent);
 
             }

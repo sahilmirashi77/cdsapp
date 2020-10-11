@@ -15,6 +15,7 @@ import com.example.cdsmaster.R;
 public class ssbgto extends AppCompatActivity {
 
     Button gto,gd,lecturtee,io,gpe,pgt,gor;
+    int clickcount=1;
 
     TextView gtooverview,mantra,gd1,lecturtee1,io1,gpe1,pgt1,gor1;
 
@@ -52,7 +53,16 @@ public class ssbgto extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                gd1.setText(Html.fromHtml(getString(R.string.gdtopics)));
+                clickcount=clickcount+1;
+                if(clickcount%2==0)
+                {
+                    gd1.setVisibility(View.VISIBLE);
+                    gd1.setText(Html.fromHtml(getString(R.string.gdtopics)));
+                }
+                else {
+                    gd1.setText("");
+                }
+
             }
         });
 
@@ -61,13 +71,24 @@ public class ssbgto extends AppCompatActivity {
             public void onClick(View v) {
 
 
+
+
             }
         });
 
         lecturtee.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                lecturtee1.setText(Html.fromHtml(getString(R.string.lectureteetopics)));
+
+                clickcount=clickcount+1;
+                if(clickcount%2==0)
+                {
+                    lecturtee1.setVisibility(View.VISIBLE);
+                    lecturtee1.setText(Html.fromHtml(getString(R.string.lectureteetopics)));
+                }
+                else {
+                    lecturtee1.setText("");
+                }
             }
         });
 
@@ -94,7 +115,16 @@ public class ssbgto extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                gor1.setText(getString(R.string.gor));
+
+                clickcount=clickcount+1;
+                if(clickcount%2==0)
+                {
+                    gor1.setVisibility(View.VISIBLE);
+                    gor1.setText(Html.fromHtml(getString(R.string.gdtopics)));
+                }
+                else {
+                    gor1.setVisibility(View.GONE);
+                }
 
 
             }

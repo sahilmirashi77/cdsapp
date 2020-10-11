@@ -1,6 +1,7 @@
 package com.example.cdsmaster;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +16,7 @@ import com.example.cdsmaster.waystojoindefence.waystojoin;
 public class MainActivity extends AppCompatActivity {
 
 
-    ImageView defenceexam,ssb,waystojoin,info;
+    CardView defenceexam,ssb,waystojoin,info;
 
 
     @Override

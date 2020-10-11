@@ -3,14 +3,27 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".ssb.ssbinterview">
+
+    tools:context=".ssb.ssbinterview"
+   >
 
 
     <ExpandableListView
         android:id="@+id/expandablelistview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content"
+        android:divider="@color/red"
+        android:dividerHeight="2dp"
+        android:listSelector="@color/colorAccent"
+        android:padding="10dp"
+
+        android:layout_margin="10dp"
+        android:childDivider="@color/rosybrown"
+        android:elevation="3dp"
+        android:indicatorEnd="@dimen/appbar_padding_top"
+
+        />
 
 </RelativeLayout>
