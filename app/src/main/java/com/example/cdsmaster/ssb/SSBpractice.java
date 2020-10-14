@@ -1,17 +1,21 @@
 package com.example.cdsmaster.ssb;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.LinearLayout;
 
 import com.example.cdsmaster.R;
 
 public class SSBpractice extends AppCompatActivity {
 
-    Button ppdt,pyscho,interview,gto,conference,ssbolq,ssbprocedure;
+    CardView ppdt,pyscho,interview,gto,conference;
+    LinearLayout    ssbolq,ssbprocedure;
+
 
 
 
@@ -21,9 +25,9 @@ public class SSBpractice extends AppCompatActivity {
         setContentView(R.layout.activity_s_s_bpractice);
 
         ppdt=findViewById(R.id.ppndt);
-        pyscho=findViewById(R.id.phsyo);
-        ssbolq=findViewById(R.id.ssbolq);
-        ssbprocedure=findViewById(R.id.ssbproceduree);
+        pyscho=findViewById(R.id.physco);
+        ssbolq=findViewById(R.id.ssbolqs);
+        ssbprocedure=findViewById(R.id.ssbprocedureee);
         interview=findViewById(R.id.IO);
         gto=findViewById(R.id.GTO);
         conference=findViewById(R.id.conferenceday);

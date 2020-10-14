@@ -49,8 +49,14 @@
                 android:id="@+id/gdone"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
                 android:layout_weight="1"
-                android:text="" />
+                android:fontFamily="monospace"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/lecturtee"
@@ -72,9 +78,13 @@
                 android:id="@+id/lecturteetwo"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="3dp"
-                android:layout_marginRight="20dp"
-                android:layout_weight="1" />
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:fontFamily="monospace"
+                android:padding="10dp"
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/gpe"
@@ -95,7 +105,13 @@
                 android:id="@+id/gpeone"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1" />
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/pgt"
@@ -116,7 +132,13 @@
                 android:id="@+id/pgtone"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1" />
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/io"
@@ -139,7 +161,13 @@
                 android:id="@+id/ioone"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1" />
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/gor"
@@ -160,7 +188,13 @@
                 android:id="@+id/gorone"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1" />
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:fontFamily="monospace"
+                android:padding="10dp"
+                android:textColor="#0B0A0A"
+                android:textStyle="bold" />
 
         </LinearLayout>
     </ScrollView>
